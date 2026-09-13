@@ -15,8 +15,6 @@ receipt generation. A booking platform with PayMaya payments and safeguards agai
 bookings. That work taught me to care about the unglamorous parts, like what happens when a
 payment fails halfway through, or two people reserve the same slot.
 
-Open to backend and full-stack opportunities. If you're hiring, I'd like to hear from you.
-
 ## Work
 
 ### POS Management System
