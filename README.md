@@ -5,12 +5,17 @@
 
 Hi, I'm Allan, a backend developer from Davao de Oro, Philippines.
 
-I work mostly in Laravel and MySQL, with Vue 3 and Inertia on the front. Most of what I've
-built handles money: a POS that rings up sales and tracks stock, a booking app that takes
-payments and refunds. That kind of work taught me to care about the unglamorous parts, like
-what happens when a payment fails halfway through, or two people book the same slot.
+I've been writing PHP and Laravel professionally since December 2024, currently at CoreProc
+on a multi-tenant platform whose REST APIs serve Android and iOS clients. A good part of that
+job is production support: someone reports something broken, I trace it to root cause, fix it,
+and ship it.
 
-Right now I'm looking for backend or full-stack work. If you're hiring, I'd like to hear from you.
+What I build on my own handles money. A POS with Maya checkout, inventory validation, and
+receipt generation. A booking platform with PayMaya payments and safeguards against double
+bookings. That work taught me to care about the unglamorous parts, like what happens when a
+payment fails halfway through, or two people reserve the same slot.
+
+Open to backend and full-stack opportunities. If you're hiring, I'd like to hear from you.
 
 ## Work
 
@@ -61,4 +66,4 @@ edits.
 
 ## Elsewhere
 
-[Portfolio](https://allan-bantilan-portfolio.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/allan-bantilan-3765993b1/) &nbsp;·&nbsp; [Résumé](https://drive.google.com/file/d/1vBtUSiFIrShB4aeOLxvgRiW-PtYWw7Xw/view?usp=sharing)
+[Portfolio](https://allan-bantilan-portfolio.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/allan-bantilan-3765993b1/) &nbsp;·&nbsp; [Résumé](https://drive.google.com/file/d/1I08YSHkrUG1DTwWZxzX3Dtx8xvW9VeVu/view?usp=sharing)
