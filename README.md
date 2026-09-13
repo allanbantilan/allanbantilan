@@ -3,11 +3,14 @@
   <img src="assets/banner-light.svg" alt="Allan Bantilan — backend / full-stack. Laravel, Vue 3, Inertia, MySQL." width="100%">
 </picture>
 
-Laravel and MySQL on the backend, Vue 3 and Inertia on the front. Most of what I've
-shipped handles money — checkouts, bookings, refunds, stock counts — so I build for the
-case where being wrong is expensive, not the case where the demo works.
+Hi, I'm Allan, a backend developer from Davao de Oro, Philippines.
 
-Open to backend and full-stack roles.
+I work mostly in Laravel and MySQL, with Vue 3 and Inertia on the front. Most of what I've
+built handles money: a POS that rings up sales and tracks stock, a booking app that takes
+payments and refunds. That kind of work taught me to care about the unglamorous parts, like
+what happens when a payment fails halfway through, or two people book the same slot.
+
+Right now I'm looking for backend or full-stack work. If you're hiring, I'd like to hear from you.
 
 ## Work
 
@@ -41,15 +44,20 @@ edits.
 
 ## Stack
 
-**Backend** &nbsp; `PHP` `Laravel` `MySQL` `REST` `OpenAPI`
+**Backend**<br>
+<img src="https://img.shields.io/badge/PHP-0F766E?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/Laravel-0F766E?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/MySQL-0F766E?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/REST%20APIs-0F766E?style=flat-square" alt="REST APIs"> <img src="https://img.shields.io/badge/OpenAPI-0F766E?style=flat-square&logo=swagger&logoColor=white" alt="OpenAPI">
 
-**Frontend** &nbsp; `Vue 3` `Inertia` `TypeScript` `Tailwind`
+**Frontend**<br>
+<img src="https://img.shields.io/badge/Vue%203-334155?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3"> <img src="https://img.shields.io/badge/Inertia-334155?style=flat-square&logo=inertia&logoColor=white" alt="Inertia"> <img src="https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Tailwind-334155?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
 
-**Admin panels** &nbsp; `Filament` `Laravel Nova`
+**Admin panels**<br>
+<img src="https://img.shields.io/badge/Filament-334155?style=flat-square&logo=laravel&logoColor=white" alt="Filament"> <img src="https://img.shields.io/badge/Laravel%20Nova-334155?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Nova">
 
-**Mobile** &nbsp; `React Native` `Expo`
+**Mobile**<br>
+<img src="https://img.shields.io/badge/React%20Native-334155?style=flat-square&logo=react&logoColor=white" alt="React Native"> <img src="https://img.shields.io/badge/Expo-334155?style=flat-square&logo=expo&logoColor=white" alt="Expo"> <img src="https://img.shields.io/badge/Node.js-334155?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
 
-**Tools** &nbsp; `Git` `Docker` `Postman` `Playwright` `Jira`
+**Tools**<br>
+<img src="https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Docker-334155?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Postman-334155?style=flat-square&logo=postman&logoColor=white" alt="Postman"> <img src="https://img.shields.io/badge/Playwright-334155?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"> <img src="https://img.shields.io/badge/Jira-334155?style=flat-square&logo=jira&logoColor=white" alt="Jira">
 
 ## Elsewhere
 
